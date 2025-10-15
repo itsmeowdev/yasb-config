@@ -226,19 +226,15 @@ widgets:
   clock:
     type: "yasb.clock.ClockWidget"
     options:
-      label: "{%H:%M:%S}"
-      label_alt: "{%A, %d %B %Y %H:%M}"
-      timezones: []
+      label: "{%a, %d %b %H:%M}"
+      update_interval: 1000
       calendar:
         blur: true
         round_corners: true
         round_corners_type: "normal"
-        border_color: "None"
+        border_color: "system"
         alignment: "center"
         direction: "down"
-      callbacks:
-        on_left: "toggle_calendar"
-        on_right: "toggle_label"
 
   # ================= KOMOREBI =================
   komorebi_workspaces:
