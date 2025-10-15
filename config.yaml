@@ -47,9 +47,8 @@ bars:
         - "clock"
       right:
         - "systray"
-        - "grouped_widgets"
-        - "language"
         - "media"
+        - "grouped_widgets"
         - "volume"
         - "notifications"
         - "battery"
@@ -109,34 +108,6 @@ widgets:
         pause: "\ue769"
         prev_track: "\ue892"
         next_track: "\ue893"
-
-  # ================= LANGUAGE =================
-  language:
-    type: "yasb.language.LanguageWidget"
-    options:
-      label: "<span>\uf11c</span> {lang[country_code]}"
-      label_alt: "{lang[full_name]}"
-      update_interval: 5
-      callbacks:
-        on_left: "toggle_menu"
-        on_middle: "do_nothing"
-        on_right: "toggle_label"
-      language_menu:
-        blur: true
-        round_corners: true
-        round_corners_type: "normal"
-        border_color: "None"
-        alignment: "right"
-        direction: "down"
-        offset_top: 6
-        offset_left: 0
-        show_layout_icon: true
-        layout_icon: "\uf11c"
-      container_padding:
-        top: 0
-        left: 2
-        bottom: 0
-        right: 2
 
   # ================= MEMORY =================
   memory:
@@ -371,18 +342,20 @@ widgets:
         current_line_width: 2
         current_line_style: "dot"
 
-  # ================= ACTIVE WINDOW =================
+  # ================= ACTIVE WINDOWs =================
   active_window:
     type: "yasb.active_window.ActiveWindowWidget"
     options:
       label: "{win[title]}"
       label_alt: "[{win[process][name]}]"
-      label_no_window: ""
+      label_no_window: "No active window"
       label_icon: true
       label_icon_size: 16
       max_length: 36
       max_length_ellipsis: "..."
       monitor_exclusive: false
+      class_name: "active-window-widget"
+
 
   # ================= GROUPED WIDGETS =================
   grouped_widgets:
@@ -470,3 +443,38 @@ widgets:
         left: 2
         bottom: 0
         right: 2
+
+  # ================= GLAZEWM TILING DIRECTION =================
+  glazewm_tiling_direction:
+    type: "glazewm.tiling_direction.GlazewmTilingDirectionWidget"
+    options:
+      horizontal_label: "\udb81\udce1"
+      vertical_label: "\udb81\udce2"
+      btn_shadow:
+        enabled: true
+        color: "black"
+        radius: 3
+        offset: [ 1, 1 ]
+
+  # ================= GLAZEWM WORKSPACES =================
+  glazewm_workspaces:
+    type: "glazewm.workspaces.GlazewmWorkspacesWidget"
+    options:
+      offline_label: "GlazeWM Offline"
+      hide_empty_workspaces: true
+      hide_if_offline: false
+      enable_scroll_switching: true
+      btn_shadow:
+        enabled: true
+        color: "black"
+        radius: 3
+        offset: [ 1, 1 ]
+      app_icons: 
+        enabled_populated: false
+        enabled_active: false
+        size: 16
+        max_icons: 0
+        hide_label: false
+        hide_duplicates: false
+        hide_floating: false
+      animation: false
