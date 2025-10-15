@@ -3516,3 +3516,1446 @@ widgets:
 2025-10-13 14:59:31,275 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-13 14:59:31.275120
 2025-10-13 15:09:31,288 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-13 15:09:31.288924
 2025-10-13 15:19:31,427 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-13 15:19:31.427083
+2025-10-13 15:29:31,291 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-13 15:29:31.291532
+2025-10-13 15:39:31,300 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-13 15:39:31.300101
+2025-10-13 15:45:01,643 [ERROR] [TrayMonitor] [root/app_icons.py:170]: GetIconInfo failed: 136512375
+2025-10-13 15:45:01,644 [ERROR] [TrayMonitor] [root/app_icons.py:170]: GetIconInfo failed: 66258635
+2025-10-13 15:49:04,236 [ERROR] [TrayMonitor] [root/app_icons.py:170]: GetIconInfo failed: 186188885
+2025-10-13 15:49:04,236 [ERROR] [TrayMonitor] [root/app_icons.py:170]: GetIconInfo failed: 211552817
+2025-10-13 15:49:31,542 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-13 15:49:31.542470
+2025-10-13 15:59:31,289 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-13 15:59:31.289649
+2025-10-13 16:09:31,295 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-13 16:09:31.295860
+2025-10-13 17:16:44,085 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-13 17:16:44.085930
+2025-10-13 17:19:53,841 [INFO] [MainThread] [root/controller.py:35]: Exiting Application...
+2025-10-13 17:19:53,943 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-13 17:19:53,943 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-13 17:19:54,180 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-13 17:19:54,181 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-13 17:19:54,182 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-13 17:19:54,318 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-13 17:19:54,319 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-13 17:19:54,321 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-13 17:19:54,382 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-13 17:19:54,386 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-13 17:19:54,388 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-13 17:19:54,452 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2427418
+2025-10-13 17:19:54,453 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 10947322
+2025-10-14 10:06:41,904 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-14 10:06:41,930 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-14 10:06:41,949 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-14 10:06:46,932 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-14 10:06:51,517 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-14 10:07:01,788 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-14 10:07:02,276 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-14 10:07:02,276 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-14 10:07:02,277 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-14 10:07:02,279 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-14 10:07:02,313 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-db20f23e-a8aa-11f0-a2b9-507b9d09027d
+2025-10-14 10:07:02,806 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-14 10:07:02,815 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-14 10:07:02,817 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-14 10:07:02,962 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-14 10:07:02,962 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-14 10:07:02,983 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 67102
+2025-10-14 10:07:02,983 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 67102
+2025-10-14 10:07:05,995 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-14 10:07:06,005 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 10:07:06.005456
+2025-10-14 10:07:06,029 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-14 10:07:06,197 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 67102
+2025-10-14 10:07:06,265 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49299
+2025-10-14 10:07:06,306 [WARNING] [Thread-8 (check_for_update)] [root/update_check.py:54]: UpdateCheckService Failed to check for updates: Network error.
+2025-10-14 10:07:08,011 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-14 10:07:08,013 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-14 10:07:27,655 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-14 10:07:27,655 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-14 10:08:35,134 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-14 10:08:35,134 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-14 10:08:42,414 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-14 10:08:42,414 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-14 10:09:10,682 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-14 10:09:10,682 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-14 10:09:53,180 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-14 10:09:53,181 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-14 10:16:51,618 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 10:16:51.618311
+2025-10-14 10:26:51,617 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 10:26:51.616496
+2025-10-14 10:36:51,618 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 10:36:51.618108
+2025-10-14 10:46:51,661 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 10:46:51.661523
+2025-10-14 10:56:51,608 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 10:56:51.608943
+2025-10-14 11:06:51,642 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 11:06:51.642722
+2025-10-14 11:16:51,633 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 11:16:51.633033
+2025-10-14 11:21:16,319 [ERROR] [TrayMonitor] [root/app_icons.py:170]: GetIconInfo failed: 133040221
+2025-10-14 11:21:16,324 [ERROR] [TrayMonitor] [root/app_icons.py:170]: GetIconInfo failed: 96470881
+2025-10-14 11:21:29,662 [ERROR] [TrayMonitor] [root/app_icons.py:170]: GetIconInfo failed: 136249883
+2025-10-14 11:21:29,674 [ERROR] [TrayMonitor] [root/app_icons.py:170]: GetIconInfo failed: 169280593
+2025-10-14 11:26:51,758 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 11:26:51.758231
+2025-10-14 11:36:51,754 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 11:36:51.754734
+2025-10-14 13:08:32,845 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2025-10-14 13:08:32,845 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-14 13:08:43,688 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 13:08:43.688998
+2025-10-14 13:13:59,528 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-14 13:13:59,528 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-14 13:18:31,923 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 13:18:31.923124
+2025-10-14 13:28:32,496 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 13:28:32.496691
+2025-10-14 13:38:32,094 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 13:38:32.094273
+2025-10-14 13:48:32,949 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 13:48:32.949059
+2025-10-14 13:58:31,823 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 13:58:31.823837
+2025-10-14 14:08:31,786 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 14:08:31.785715
+2025-10-14 14:18:31,734 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 14:18:31.734102
+2025-10-14 14:28:31,742 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 14:28:31.742606
+2025-10-14 14:38:31,738 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 14:38:31.738621
+2025-10-14 14:48:32,031 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 14:48:32.031503
+2025-10-14 14:58:32,216 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 14:58:32.216873
+2025-10-14 15:08:31,753 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 15:08:31.753238
+2025-10-14 15:18:32,805 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 15:18:32.805103
+2025-10-14 15:28:31,765 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 15:28:31.765887
+2025-10-14 15:38:31,757 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 15:38:31.757805
+2025-10-14 16:47:17,199 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2025-10-14 16:47:17,199 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-14 16:47:39,354 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2025-10-14 16:47:39,354 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-14 16:48:01,448 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2025-10-14 16:48:01,448 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-14 16:48:11,860 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 16:48:11.860598
+2025-10-14 16:53:08,520 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-14 16:53:08,520 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-14 16:57:15,558 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-14 16:57:15.558141
+2025-10-14 17:04:50,269 [INFO] [MainThread] [root/controller.py:35]: Exiting Application...
+2025-10-14 17:04:50,372 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-14 17:04:50,372 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-14 17:04:50,579 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-14 17:04:50,580 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-14 17:04:50,582 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-14 17:04:50,628 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-14 17:04:50,629 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-14 17:04:50,633 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-14 17:04:50,727 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-14 17:04:50,729 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-14 17:04:50,734 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-14 17:04:50,802 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 67100
+2025-10-14 17:04:50,802 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 67102
+2025-10-15 10:13:39,903 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 10:13:39,935 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 10:13:39,966 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 10:13:46,023 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 10:13:58,220 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 10:14:06,193 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 10:14:06,989 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 10:14:06,992 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 10:14:06,992 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 10:14:06,993 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 10:14:07,108 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-02b15825-a975-11f0-b4e5-507b9d09027d
+2025-10-15 10:14:07,676 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 10:14:07,740 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 10:14:07,742 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 10:14:08,202 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 10:14:08,232 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 10:14:08,237 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 67096
+2025-10-15 10:14:08,238 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 67096
+2025-10-15 10:14:11,175 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 10:14:11,187 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 10:14:11,324 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 10:14:11.324508
+2025-10-15 10:14:11,674 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 67096
+2025-10-15 10:14:11,686 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 10:14:11,844 [WARNING] [Thread-8 (check_for_update)] [root/update_check.py:54]: UpdateCheckService Failed to check for updates: Network error.
+2025-10-15 10:14:12,766 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 10:14:12,766 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 10:14:15,029 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 10:14:15,029 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 10:14:20,671 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 10:14:20,671 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 10:15:54,602 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 10:15:54,602 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 10:16:34,846 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 10:16:34,847 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 10:23:58,320 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 10:23:58.320922
+2025-10-15 10:33:58,316 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 10:33:58.316846
+2025-10-15 10:43:58,459 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 10:43:58.459921
+2025-10-15 10:53:58,316 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 10:53:58.316100
+2025-10-15 11:03:58,421 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 11:03:58.421184
+2025-10-15 11:13:58,326 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 11:13:58.326992
+2025-10-15 11:23:58,325 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 11:23:58.325572
+2025-10-15 11:33:58,343 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 11:33:58.343915
+2025-10-15 13:08:24,619 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2025-10-15 13:08:24,620 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-15 13:08:46,884 [ERROR] [MainThread] [root/api.py:84]: No internet connection or host not found. Unable to fetch weather.
+2025-10-15 13:08:46,886 [WARNING] [MainThread] [root/weather.py:517]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-10-15 13:08:57,208 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 13:08:57.208227
+2025-10-15 13:13:47,953 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:13:47,953 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:16:32,384 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 13:16:32,489 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 13:16:32,489 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 13:16:32,658 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 13:16:33,092 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 13:16:33,093 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 13:16:33,102 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 13:16:33,184 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:16:33,184 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 13:16:33,199 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:16:33,258 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 13:16:33,278 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 13:16:33,278 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 13:16:33,393 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 67092
+2025-10-15 13:16:33,393 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 67096
+2025-10-15 13:16:41,042 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 13:16:41,042 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 13:16:41,042 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 13:16:42,989 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 13:16:48,004 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 13:16:49,183 [ERROR] [MainThread] [root/weather.py:59]: API key or location is missing. Please provide a valid API key and location.
+2025-10-15 13:16:52,992 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 13:16:53,039 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 13:16:53,039 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 13:16:53,039 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 13:16:53,191 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 13:16:53,191 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 13:16:54,593 [WARNING] [Thread-5 (check_for_update)] [root/update_check.py:54]: UpdateCheckService Failed to check for updates: Network error.
+2025-10-15 13:18:08,679 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 13:18:08,795 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 13:18:08,795 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 13:18:08,795 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 13:18:09,260 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 13:18:09,262 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 13:18:09,273 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 13:18:09,326 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 13:18:09,357 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 13:18:10,171 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 13:18:10,172 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 13:18:10,173 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 13:18:11,050 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 13:18:12,013 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 13:18:14,498 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 13:18:14,537 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 13:18:14,537 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 13:18:14,538 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 13:18:14,539 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-bb8ac931-a98e-11f0-a284-507b9d09027d
+2025-10-15 13:18:14,540 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 13:18:14,697 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 13:18:14,702 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 13:18:14,705 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:18:14,707 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 13:18:14,707 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 13:18:14,754 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 198034
+2025-10-15 13:18:14,754 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 198034
+2025-10-15 13:18:14,817 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 13:18:15,017 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 198034
+2025-10-15 13:18:15,018 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 13:18:15,038 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 13:18:15,054 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 13:18:15.054283
+2025-10-15 13:18:16,102 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:18:16,103 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:18:17,406 [WARNING] [Thread-8 (check_for_update)] [root/update_check.py:54]: UpdateCheckService Failed to check for updates: Network error.
+2025-10-15 13:18:18,408 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:18:18,408 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:18:37,077 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 13:18:37,194 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 13:18:37,194 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 13:18:37,194 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 13:18:37,636 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 13:18:37,637 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 13:18:37,637 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 13:18:37,678 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:18:37,678 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 13:18:37,678 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:18:37,725 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 13:18:37,740 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 13:18:37,740 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 13:18:37,789 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 198128
+2025-10-15 13:18:37,789 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 198034
+2025-10-15 13:18:38,495 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 13:18:38,495 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 13:18:38,495 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 13:18:38,883 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 13:18:39,327 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 13:18:41,232 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 13:18:41,274 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 13:18:41,274 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 13:18:41,278 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 13:18:41,279 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 13:18:41,283 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-cb7b41f5-a98e-11f0-bba0-507b9d09027d
+2025-10-15 13:18:41,485 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 13:18:41,487 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 13:18:41,490 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:18:41,508 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 13:18:41,508 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 13:18:41,527 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 592158
+2025-10-15 13:18:41,527 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 592158
+2025-10-15 13:18:41,573 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 13:18:41,775 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 592158
+2025-10-15 13:18:41,775 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 13:18:41,801 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 13:18:41,979 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 13:18:41.978670
+2025-10-15 13:18:42,876 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:18:42,877 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:18:45,074 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:18:45,074 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:18:54,327 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 13:18:54,444 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 13:18:54,444 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 13:18:54,460 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 13:18:54,802 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 13:18:54,818 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 13:18:54,819 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 13:18:54,861 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:18:54,861 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 13:18:54,861 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:18:54,929 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 13:18:54,930 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 13:18:54,933 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 13:18:54,960 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1312774
+2025-10-15 13:18:54,960 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 592158
+2025-10-15 13:18:55,680 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 13:18:55,680 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 13:18:55,680 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 13:18:56,065 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 13:18:56,277 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 13:18:58,320 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 13:18:58,361 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 13:18:58,362 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 13:18:58,362 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 13:18:58,363 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-d5aa01bc-a98e-11f0-b2a9-507b9d09027d
+2025-10-15 13:18:58,365 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 13:18:58,563 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 13:18:58,569 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 13:18:58,571 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:18:58,582 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 13:18:58,582 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 13:18:58,610 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 395600
+2025-10-15 13:18:58,627 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 395600
+2025-10-15 13:18:58,734 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 13:18:58,765 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 13:18:58.765137
+2025-10-15 13:18:58,936 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 395600
+2025-10-15 13:18:58,937 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 13:18:58,958 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 13:18:59,991 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:18:59,991 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:19:06,777 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:19:06,777 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:22:25,238 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 13:22:25,340 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 13:22:25,340 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 13:22:25,346 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 13:22:25,741 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 13:22:25,741 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 13:22:25,742 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 13:22:25,759 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:22:25,760 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 13:22:25,761 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:22:25,772 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 13:22:25,781 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 13:22:25,788 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 13:22:25,883 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 329242
+2025-10-15 13:22:25,883 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 395600
+2025-10-15 13:22:26,537 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 13:22:26,537 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 13:22:26,552 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 13:22:26,965 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 13:22:27,220 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 13:22:29,629 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 13:22:29,676 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 13:22:29,676 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 13:22:29,677 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 13:22:29,678 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-539e056e-a98f-11f0-bfed-507b9d09027d
+2025-10-15 13:22:29,680 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 13:22:29,959 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 13:22:29,961 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 13:22:29,962 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:22:29,965 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 13:22:29,967 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 13:22:29,984 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 657654
+2025-10-15 13:22:29,984 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 657654
+2025-10-15 13:22:30,057 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 13:22:30,257 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 657654
+2025-10-15 13:22:30,258 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 13:22:30,275 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 13:22:30,307 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 13:22:30.307730
+2025-10-15 13:22:31,351 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:22:31,351 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:22:33,235 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:22:33,235 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:22:41,792 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:22:41,792 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:22:54,753 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 13:22:54,870 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 13:22:54,870 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 13:22:54,870 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 13:22:55,224 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 13:22:55,226 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 13:22:55,245 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 13:22:55,303 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:22:55,303 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 13:22:55,303 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:22:55,349 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 13:22:55,365 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 13:22:55,365 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 13:22:55,396 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1114726
+2025-10-15 13:22:55,396 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 657654
+2025-10-15 13:22:56,186 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 13:22:56,186 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 13:22:56,189 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 13:22:56,685 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 13:22:56,827 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2025-10-15 13:22:56,827 [DEBUG] [MainThread] [pyvda.build/build.py:36]: Querying {4970BA3D-FD4E-4647-BEA3-D89076EF4B9C}... No such interface supported
+2025-10-15 13:22:56,827 [DEBUG] [MainThread] [comtypes._post_coinit.unknwn/unknwn.py:283]: Release <POINTER(IServiceProvider) ptr=0x17cb6b9b2f8 at 17cb85aa450>
+2025-10-15 13:22:56,827 [DEBUG] [MainThread] [pyvda.build/build.py:36]: Querying {A3175F2D-239C-4BD2-8AA0-EEBA8B0B138E}... No such interface supported
+2025-10-15 13:22:56,827 [DEBUG] [MainThread] [comtypes._post_coinit.unknwn/unknwn.py:283]: Release <POINTER(IServiceProvider) ptr=0x17cb6b9b2f8 at 17cb85aa2d0>
+2025-10-15 13:22:56,827 [DEBUG] [MainThread] [pyvda.build/build.py:36]: Querying {B2F925B9-5A0F-4D2E-9F4D-2B1507593C10}... No such interface supported
+2025-10-15 13:22:56,827 [DEBUG] [MainThread] [comtypes._post_coinit.unknwn/unknwn.py:283]: Release <POINTER(IServiceProvider) ptr=0x17cb6b9b2f8 at 17cb85aa450>
+2025-10-15 13:22:56,843 [DEBUG] [MainThread] [pyvda.build/build.py:36]: Querying {094AFE11-44F2-4BA0-976F-29A97E263EE0}... No such interface supported
+2025-10-15 13:22:56,843 [DEBUG] [MainThread] [comtypes._post_coinit.unknwn/unknwn.py:283]: Release <POINTER(IServiceProvider) ptr=0x17cb6b9b2f8 at 17cb85aa2d0>
+2025-10-15 13:22:56,843 [DEBUG] [MainThread] [pyvda.build/build.py:38]: Querying {F31574D6-B682-4CDC-BD56-1827860ABEC6}... Success!
+2025-10-15 13:22:56,843 [DEBUG] [MainThread] [comtypes._post_coinit.unknwn/unknwn.py:283]: Release <POINTER(IServiceProvider) ptr=0x17cb6b9b2f8 at 17cb85aa450>
+2025-10-15 13:22:56,843 [DEBUG] [MainThread] [comtypes._post_coinit.unknwn/unknwn.py:283]: Release <POINTER(IUnknown) ptr=0x17cb6b9b3d8 at 17cb85aa2d0>
+2025-10-15 13:22:56,843 [DEBUG] [MainThread] [pyvda.build/build.py:116]: Feature detection complete. Windows version is over 19041
+2025-10-15 13:22:56,886 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 13:22:56,902 [DEBUG] [MainThread] [comtypes._post_coinit.unknwn/unknwn.py:283]: Release <POINTER(IServiceProvider) ptr=0x17cb6b9b4b8 at 17cb85aafd0>
+2025-10-15 13:22:56,902 [DEBUG] [MainThread] [comtypes._post_coinit.unknwn/unknwn.py:283]: Release <POINTER(IServiceProvider) ptr=0x17cb6b9b2f8 at 17cb85aafd0>
+2025-10-15 13:22:56,902 [DEBUG] [MainThread] [comtypes._post_coinit.unknwn/unknwn.py:283]: Release <POINTER(IServiceProvider) ptr=0x17cb6d680c8 at 17cb85aafd0>
+2025-10-15 13:22:56,902 [DEBUG] [MainThread] [comtypes._post_coinit.unknwn/unknwn.py:283]: Release <POINTER(IServiceProvider) ptr=0x17cb6d67bf8 at 17cb85aafd0>
+2025-10-15 13:22:57,123 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 13:22:59,488 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 298] Too many posts were made to a semaphore.
+2025-10-15 13:22:59,535 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 13:22:59,537 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 13:22:59,538 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 13:22:59,539 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 13:22:59,541 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-656a8b1a-a98f-11f0-a153-507b9d09027d
+2025-10-15 13:22:59,788 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 13:22:59,789 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 13:22:59,793 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:22:59,796 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 13:22:59,796 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 13:22:59,820 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 984852
+2025-10-15 13:22:59,820 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 984852
+2025-10-15 13:22:59,885 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 13:22:59,976 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 13:22:59.976784
+2025-10-15 13:23:00,087 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 984852
+2025-10-15 13:23:00,088 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 13:23:00,111 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 13:23:01,151 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:23:01,151 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:23:03,336 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:23:03,336 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:23:12,093 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 13:23:12,194 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 13:23:12,194 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 13:23:12,206 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 13:23:12,581 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 13:23:12,582 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 13:23:12,588 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 13:23:12,624 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:23:12,625 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 13:23:12,626 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:23:12,736 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 13:23:12,741 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 13:23:12,743 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 13:23:12,774 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 460272
+2025-10-15 13:23:12,774 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 984852
+2025-10-15 13:23:13,435 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 13:23:13,435 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 13:23:13,435 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 13:23:13,829 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 13:23:14,051 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 13:23:16,048 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 13:23:16,090 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 13:23:16,090 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 13:23:16,090 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 13:23:16,091 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-6f483bde-a98f-11f0-8e61-507b9d09027d
+2025-10-15 13:23:16,093 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 13:23:16,262 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 13:23:16,264 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 13:23:16,268 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:23:16,272 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 13:23:16,272 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 13:23:16,285 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 918932
+2025-10-15 13:23:16,285 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 918932
+2025-10-15 13:23:16,352 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 13:23:16,435 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 13:23:16.435676
+2025-10-15 13:23:16,553 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 918932
+2025-10-15 13:23:16,554 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 13:23:16,577 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 13:23:18,147 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:23:18,147 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:23:25,274 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 13:23:25,384 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 13:23:25,384 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 13:23:25,387 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 13:23:25,758 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 13:23:25,759 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 13:23:25,776 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 13:23:25,886 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:23:25,886 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 13:23:25,886 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:23:25,980 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 13:23:26,021 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 13:23:26,037 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 13:23:26,139 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 525836
+2025-10-15 13:23:26,139 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 918932
+2025-10-15 13:23:27,303 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 13:23:27,303 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 13:23:27,303 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 13:23:27,686 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 13:23:27,890 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 13:23:33,737 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 13:23:33,845 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 13:23:33,846 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 13:23:33,847 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-79dd9d86-a98f-11f0-8008-507b9d09027d
+2025-10-15 13:23:33,848 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 13:23:33,853 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 13:23:34,243 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 13:23:34,249 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 13:23:34,253 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:23:34,260 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 13:23:34,261 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 13:23:34,312 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 591250
+2025-10-15 13:23:34,312 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 591250
+2025-10-15 13:23:36,661 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 13:23:36,662 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 13:23:36,664 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 13:23:36.664768
+2025-10-15 13:23:36,864 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 591250
+2025-10-15 13:23:36,898 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 13:23:38,003 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:23:38,004 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:23:39,067 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:23:39,068 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:25:59,143 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 13:25:59,247 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 13:25:59,247 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 13:25:59,253 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 13:25:59,600 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 13:25:59,601 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 13:25:59,601 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 13:25:59,668 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:25:59,668 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 13:25:59,669 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:25:59,684 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 13:25:59,685 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 13:25:59,687 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 13:25:59,724 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 656878
+2025-10-15 13:25:59,724 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 591250
+2025-10-15 13:26:00,927 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 13:26:00,928 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 13:26:00,929 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 13:26:01,361 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 13:26:01,627 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 13:26:04,538 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 13:26:04,585 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 13:26:04,587 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 13:26:04,588 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 13:26:04,590 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-d3b6c017-a98f-11f0-b8a6-507b9d09027d
+2025-10-15 13:26:04,590 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 13:26:04,781 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 13:26:04,784 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 13:26:04,789 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:26:04,795 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 13:26:04,796 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 13:26:04,852 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 722416
+2025-10-15 13:26:04,853 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 722416
+2025-10-15 13:26:04,993 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 13:26:05,166 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 13:26:05.166667
+2025-10-15 13:26:05,195 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 722416
+2025-10-15 13:26:05,195 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 13:26:05,215 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 13:26:06,276 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:26:06,276 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:26:09,106 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:26:09,107 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:26:11,821 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:26:11,821 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:26:52,877 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 13:26:53,002 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 13:26:53,002 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 13:26:53,002 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 13:26:53,371 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 13:26:53,371 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 13:26:53,371 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 13:26:53,436 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:26:53,437 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 13:26:53,438 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:26:53,544 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 13:26:53,544 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 13:26:53,560 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 13:26:53,593 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1181460
+2025-10-15 13:26:53,595 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 722416
+2025-10-15 13:26:54,280 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 13:26:54,280 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 13:26:54,280 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 13:26:54,687 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 13:26:55,011 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 13:26:57,227 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 13:26:57,271 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 13:26:57,271 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 13:26:57,273 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 13:26:57,274 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 13:26:57,278 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-f31e2d82-a98f-11f0-8dde-507b9d09027d
+2025-10-15 13:26:57,463 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 13:26:57,465 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 13:26:57,469 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:26:57,474 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 13:26:57,474 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 13:26:57,494 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 460898
+2025-10-15 13:26:57,494 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 460898
+2025-10-15 13:26:57,560 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 13:26:57,604 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 13:26:57.604275
+2025-10-15 13:26:57,762 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 460898
+2025-10-15 13:26:57,762 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 13:26:57,786 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 13:26:58,843 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:26:58,843 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:27:00,076 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:27:00,077 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:27:11,377 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 13:27:11,494 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 13:27:11,494 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 13:27:11,494 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 13:27:11,886 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 13:27:11,888 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 13:27:11,889 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 13:27:12,117 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:27:12,117 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 13:27:12,133 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:27:12,398 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 13:27:12,398 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 13:27:12,445 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 13:27:12,476 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1377684
+2025-10-15 13:27:12,476 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 460898
+2025-10-15 13:27:13,471 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 13:27:13,471 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 13:27:13,471 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 13:27:14,128 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 13:27:14,695 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 13:27:17,230 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 13:27:17,270 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 13:27:17,270 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 13:27:17,271 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-ff094d11-a98f-11f0-a7fe-507b9d09027d
+2025-10-15 13:27:17,272 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 13:27:17,275 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 13:27:17,442 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 13:27:17,444 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 13:27:17,447 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:27:17,450 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 13:27:17,453 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 13:27:17,469 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 5179048
+2025-10-15 13:27:17,469 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 5179048
+2025-10-15 13:27:17,732 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 13:27:17,737 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 13:27:17.737742
+2025-10-15 13:27:17,933 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 5179048
+2025-10-15 13:27:17,934 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 13:27:17,955 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 13:27:19,045 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:27:19,045 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:27:21,080 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:27:21,080 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:27:26,865 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:27:26,865 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:28:09,459 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 13:28:09,576 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 13:28:09,576 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 13:28:09,576 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 13:28:10,019 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 13:28:10,020 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 13:28:10,020 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 13:28:10,104 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:28:10,105 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 13:28:10,109 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:28:10,173 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 13:28:10,189 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 13:28:10,189 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 13:28:10,218 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 526434
+2025-10-15 13:28:10,225 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 5179048
+2025-10-15 13:28:10,892 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 13:28:10,892 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 13:28:10,892 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 13:28:11,181 [WARNING] [MainThread] [root/widget_builder.py:40]: No widget config could be found for widget 'glazewm_workspaces
+2025-10-15 13:28:11,332 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 13:28:11,558 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 13:28:13,750 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 13:28:13,792 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 13:28:13,792 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 13:28:13,794 [ERROR] [MainThread] [root/widget_builder.py:86]: Failed to add undefined widget(s)  - The widget "glazewm_workspaces" is undefined.
+2025-10-15 13:28:13,906 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 13:28:14,001 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 13:28:14,004 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 13:28:14,007 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:28:14,011 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 13:28:14,011 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 13:28:14,036 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 1508756
+2025-10-15 13:28:14,036 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1508756
+2025-10-15 13:28:14,216 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 13:28:14,236 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 13:28:14.236071
+2025-10-15 13:28:14,417 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 13:28:14,418 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1508756
+2025-10-15 13:28:14,440 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 13:28:15,511 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:28:15,511 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:28:18,575 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:28:18,575 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:28:40,689 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 13:28:40,804 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 13:28:40,804 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 13:28:40,866 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 13:28:41,216 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 13:28:41,232 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 13:28:41,269 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:28:41,269 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 13:28:41,270 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:28:41,385 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 13:28:41,400 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 13:28:41,400 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 13:28:41,469 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2230060
+2025-10-15 13:28:41,469 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1508756
+2025-10-15 13:28:42,124 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 13:28:42,124 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 13:28:42,124 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 13:28:42,774 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 13:28:43,023 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 13:28:45,613 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 13:28:45,664 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 13:28:45,665 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 13:28:45,665 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-33b9225c-a990-11f0-83d8-507b9d09027d
+2025-10-15 13:28:45,666 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 13:28:45,667 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 13:28:45,922 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 13:28:45,924 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 13:28:45,925 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:28:45,928 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 13:28:45,928 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 13:28:45,950 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 1050094
+2025-10-15 13:28:45,951 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1050094
+2025-10-15 13:28:46,164 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 13:28:46,165 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 13:28:46.165821
+2025-10-15 13:28:46,423 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1050094
+2025-10-15 13:28:46,424 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 13:28:46,454 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 13:28:48,034 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:28:48,035 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:30:16,901 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:30:16,901 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:30:44,991 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 13:30:45,100 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 13:30:45,100 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 13:30:45,100 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 13:30:45,483 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 13:30:45,483 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 13:30:45,483 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 13:30:45,529 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:30:45,530 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 13:30:45,531 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:30:45,627 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 13:30:45,641 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 13:30:45,641 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 13:30:45,667 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1050718
+2025-10-15 13:30:45,667 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1050094
+2025-10-15 13:30:46,470 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 13:30:46,470 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 13:30:46,470 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 13:30:47,036 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 13:30:47,287 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 13:30:49,448 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 13:30:49,491 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 13:30:49,491 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 13:30:49,492 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 13:30:49,493 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-7d87abed-a990-11f0-b071-507b9d09027d
+2025-10-15 13:30:49,494 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 13:30:49,687 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 13:30:49,689 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 13:30:49,690 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:30:49,693 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 13:30:49,695 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 13:30:49,720 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 1181240
+2025-10-15 13:30:49,720 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1181240
+2025-10-15 13:30:49,803 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 13:30:50,007 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1181240
+2025-10-15 13:30:50,007 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 13:30:50,036 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 13:30:50,055 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 13:30:50.054483
+2025-10-15 13:30:51,153 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:30:51,154 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:31:11,906 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:31:11,907 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:33:09,950 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 13:33:10,051 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 13:33:10,051 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 13:33:10,065 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 13:33:10,501 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 13:33:10,501 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 13:33:10,502 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 13:33:10,573 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:33:10,573 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 13:33:10,574 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:33:10,590 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 13:33:10,599 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 13:33:10,602 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 13:33:10,624 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1050096
+2025-10-15 13:33:10,624 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1181240
+2025-10-15 13:33:11,486 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 13:33:11,486 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 13:33:11,486 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 13:33:11,931 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 13:33:12,178 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 13:33:14,538 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 13:33:14,607 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 13:33:14,608 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 13:33:14,609 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 13:33:14,765 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 13:33:14,767 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 13:33:14,773 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 13:33:14,776 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 13:33:14,777 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 13:33:14,806 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 3671982
+2025-10-15 13:33:14,806 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 3671982
+2025-10-15 13:33:14,880 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 13:33:14,979 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 13:33:14.978634
+2025-10-15 13:33:15,081 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 3671982
+2025-10-15 13:33:15,084 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 13:33:15,109 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 13:33:16,150 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:33:16,151 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:33:18,150 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:33:18,150 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:33:51,954 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:33:51,955 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:35:30,916 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:35:31,000 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:39:25,476 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:39:25,477 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:40:35,309 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:40:35,310 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:43:01,297 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:43:01,298 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:43:03,752 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:43:03,753 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:43:12,837 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 13:43:12.837603
+2025-10-15 13:47:13,127 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 13:47:13,127 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 13:52:43,994 [ERROR] [TrayMonitor] [root/app_icons.py:170]: GetIconInfo failed: 131926189
+2025-10-15 13:52:43,994 [ERROR] [TrayMonitor] [root/app_icons.py:170]: GetIconInfo failed: 77662067
+2025-10-15 13:52:54,377 [ERROR] [TrayMonitor] [root/app_icons.py:170]: GetIconInfo failed: 144573129
+2025-10-15 13:53:12,912 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 13:53:12.912623
+2025-10-15 14:03:12,828 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:03:12.828369
+2025-10-15 14:13:12,893 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:13:12.893508
+2025-10-15 14:23:12,819 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:23:12.819523
+2025-10-15 14:23:20,190 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 14:23:20,304 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 14:23:20,304 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 14:23:20,338 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 14:23:20,709 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 14:23:20,710 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 14:23:20,788 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:23:20,788 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 14:23:20,788 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:23:20,962 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 14:23:20,966 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 14:23:20,971 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 14:23:21,030 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 919318
+2025-10-15 14:23:21,030 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 3671982
+2025-10-15 14:23:25,362 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 14:23:25,362 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 14:23:25,362 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 14:23:26,463 [WARNING] [MainThread] [root/widget_builder.py:40]: No widget config could be found for widget 'komorebi.workspaces
+2025-10-15 14:23:26,882 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 14:23:31,778 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 14:23:36,203 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 14:23:36,264 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 14:23:36,265 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 14:23:36,266 [ERROR] [MainThread] [root/widget_builder.py:86]: Failed to add undefined widget(s)  - The widget "komorebi.workspaces" is undefined.
+2025-10-15 14:23:36,379 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 14:23:36,481 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 14:23:36,535 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 14:23:36,537 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:23:36,542 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 14:23:36,542 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 14:23:36,566 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 1771516
+2025-10-15 14:23:36,567 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1771516
+2025-10-15 14:23:36,926 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 14:23:37,257 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 14:23:37,270 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:23:37.270517
+2025-10-15 14:23:37,780 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1771516
+2025-10-15 14:23:37,801 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 14:23:39,522 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:23:39,522 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:23:55,285 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 14:23:55,386 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 14:23:55,386 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 14:23:55,394 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 14:23:55,739 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 14:23:55,741 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 14:23:55,758 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:23:55,758 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 14:23:55,762 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:23:55,848 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 14:23:55,859 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 14:23:55,863 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 14:23:55,908 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 919824
+2025-10-15 14:23:55,924 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1771516
+2025-10-15 14:23:56,566 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 14:23:56,566 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 14:23:56,568 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 14:23:57,066 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 14:23:57,293 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 14:23:59,365 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 14:23:59,419 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 14:23:59,420 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 14:23:59,422 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 14:23:59,561 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 14:23:59,563 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 14:23:59,567 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:23:59,570 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 14:23:59,570 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 14:23:59,594 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 13109092
+2025-10-15 14:23:59,594 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 13109092
+2025-10-15 14:23:59,684 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 14:23:59,713 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:23:59.713918
+2025-10-15 14:23:59,886 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 13109092
+2025-10-15 14:23:59,886 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 14:23:59,904 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 14:24:00,923 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:24:00,923 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:24:03,228 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:24:03,228 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:24:12,556 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:24:12,556 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:24:45,960 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 14:24:46,060 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 14:24:46,060 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 14:24:46,068 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 14:24:46,367 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 14:24:46,370 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 14:24:46,552 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:24:46,554 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 14:24:46,564 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:24:46,637 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 14:24:46,639 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 14:24:46,641 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 14:24:46,681 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2033674
+2025-10-15 14:24:46,681 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 13109092
+2025-10-15 14:24:47,518 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 14:24:47,534 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 14:24:47,534 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 14:24:47,963 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 14:24:48,193 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 14:24:50,361 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 14:24:50,416 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 14:24:50,418 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 14:24:50,418 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 14:24:50,547 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 14:24:50,548 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 14:24:50,553 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:24:50,556 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 14:24:50,558 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 14:24:50,580 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 2296220
+2025-10-15 14:24:50,580 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2296220
+2025-10-15 14:24:50,647 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 14:24:50,688 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:24:50.688483
+2025-10-15 14:24:50,854 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2296220
+2025-10-15 14:24:50,854 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 14:24:50,878 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 14:24:51,958 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:24:51,959 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:24:54,136 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:24:54,136 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:25:57,073 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 14:25:57,188 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 14:25:57,188 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 14:25:57,197 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 14:25:57,614 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 14:25:57,615 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 14:25:57,799 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:25:57,816 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 14:25:57,824 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:25:58,214 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 14:25:58,257 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 14:25:58,390 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 14:25:58,424 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 918122
+2025-10-15 14:25:58,424 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2296220
+2025-10-15 14:25:59,218 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 14:25:59,219 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 14:25:59,220 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 14:25:59,649 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 14:25:59,863 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 14:26:02,322 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 14:26:02,370 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 14:26:02,370 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 14:26:02,372 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 14:26:02,501 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 14:26:02,503 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 14:26:02,508 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:26:02,512 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 14:26:02,512 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 14:26:02,538 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 1115624
+2025-10-15 14:26:02,541 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1115624
+2025-10-15 14:26:02,616 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 14:26:02,641 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:26:02.641712
+2025-10-15 14:26:02,817 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1115624
+2025-10-15 14:26:02,817 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 14:26:02,835 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 14:26:03,903 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:26:03,903 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:26:06,119 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:26:06,119 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:27:57,571 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:27:57,571 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:30:10,736 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 14:30:10,841 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 14:30:10,842 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 14:30:10,857 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 14:30:11,371 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 14:30:11,371 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 14:30:12,155 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:30:12,156 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 14:30:12,157 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:30:12,168 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 14:30:12,171 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 14:30:12,173 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 14:30:12,206 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1968124
+2025-10-15 14:30:12,206 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1115624
+2025-10-15 14:30:13,940 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 14:30:13,945 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 14:30:13,952 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 14:30:15,189 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 14:30:15,569 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 14:30:18,475 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 14:30:18,531 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 14:30:18,532 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 14:30:18,534 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 14:30:18,679 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 14:30:18,686 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 14:30:18,688 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:30:18,691 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 14:30:18,692 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 14:30:18,716 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 2427292
+2025-10-15 14:30:18,716 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2427292
+2025-10-15 14:30:18,788 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 14:30:18,990 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2427292
+2025-10-15 14:30:18,991 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 14:30:19,008 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 14:30:19,025 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:30:19.025084
+2025-10-15 14:30:21,648 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:30:21,649 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:30:27,670 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 14:30:27,775 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 14:30:27,775 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 14:30:27,785 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 14:30:28,170 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 14:30:28,170 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 14:30:28,233 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:30:28,234 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 14:30:28,235 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:30:28,509 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 14:30:28,512 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 14:30:28,570 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 14:30:28,620 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 919742
+2025-10-15 14:30:28,620 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2427292
+2025-10-15 14:30:29,288 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 14:30:29,289 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 14:30:29,289 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 14:30:29,830 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 14:30:30,047 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 14:30:32,643 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 14:30:32,702 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 14:30:32,704 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 14:30:32,705 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 14:30:32,829 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 14:30:32,832 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 14:30:32,835 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:30:32,838 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 14:30:32,841 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 14:30:32,864 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 919408
+2025-10-15 14:30:32,865 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 919408
+2025-10-15 14:30:32,943 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 14:30:32,953 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:30:32.953824
+2025-10-15 14:30:33,144 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 919408
+2025-10-15 14:30:33,144 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 14:30:33,163 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 14:30:34,255 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:30:34,255 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:30:36,070 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:30:36,070 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:30:42,587 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:30:42,587 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:36:48,469 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 14:36:48,585 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 14:36:48,586 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 14:36:48,597 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 14:36:48,914 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 14:36:48,914 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 14:36:48,937 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:36:48,937 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 14:36:48,939 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:36:48,951 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 14:36:48,952 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 14:36:48,953 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 14:36:48,984 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 788328
+2025-10-15 14:36:48,984 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 919408
+2025-10-15 14:36:49,682 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 14:36:49,682 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 14:36:49,682 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 14:36:50,229 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 14:36:50,469 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 14:36:52,395 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 14:36:52,440 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 14:36:52,440 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 14:36:52,442 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 14:36:52,443 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 14:36:52,565 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-b7a20ed9-a999-11f0-a683-507b9d09027d
+2025-10-15 14:36:52,731 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 14:36:52,733 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 14:36:52,735 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:36:52,740 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 14:36:52,740 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 14:36:52,752 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 2034072
+2025-10-15 14:36:52,752 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2034072
+2025-10-15 14:36:52,836 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 14:36:53,037 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2034072
+2025-10-15 14:36:53,038 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 14:36:53,055 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 14:36:53,087 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:36:53.087351
+2025-10-15 14:36:54,140 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:36:54,140 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:36:58,043 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:36:58,043 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:38:22,665 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:38:22,666 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:39:51,960 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 14:39:52,061 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 14:39:52,061 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 14:39:52,070 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 14:39:52,399 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 14:39:52,442 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 14:39:52,443 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 14:39:52,463 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:39:52,464 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 14:39:52,465 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:39:52,476 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 14:39:52,490 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 14:39:52,491 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 14:39:52,523 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2230036
+2025-10-15 14:39:52,524 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2034072
+2025-10-15 14:39:53,286 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 14:39:53,287 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 14:39:53,287 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 14:39:54,030 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 14:39:54,421 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 14:39:56,602 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 14:39:56,650 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 14:39:56,651 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 14:39:56,652 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 14:39:56,653 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 14:39:56,655 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-256e2ff6-a99a-11f0-a1e2-507b9d09027d
+2025-10-15 14:39:56,876 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 14:39:56,880 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 14:39:56,882 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:39:56,884 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 14:39:56,884 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 14:39:56,907 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 919400
+2025-10-15 14:39:56,907 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 919400
+2025-10-15 14:39:56,974 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 14:39:57,174 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 919400
+2025-10-15 14:39:57,175 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 14:39:57,194 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 14:39:57,220 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:39:57.220679
+2025-10-15 14:39:58,278 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:39:58,279 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:40:00,465 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:40:00,466 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:40:11,687 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 14:40:11,788 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 14:40:11,788 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 14:40:11,820 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 14:40:12,187 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 14:40:12,188 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 14:40:12,190 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 14:40:12,279 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:40:12,279 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 14:40:12,280 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:40:12,373 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 14:40:12,397 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 14:40:12,400 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 14:40:12,433 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2949734
+2025-10-15 14:40:12,433 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 919400
+2025-10-15 14:40:13,010 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 14:40:13,011 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 14:40:13,012 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 14:40:13,444 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 14:40:13,649 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 14:40:15,686 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 14:40:15,742 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 14:40:15,742 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 14:40:15,744 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 14:40:15,746 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 14:40:15,751 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-30cf9566-a99a-11f0-9349-507b9d09027d
+2025-10-15 14:40:15,952 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 14:40:15,953 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 14:40:15,955 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:40:15,958 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 14:40:15,960 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 14:40:15,980 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 2164592
+2025-10-15 14:40:15,980 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2164592
+2025-10-15 14:40:16,046 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 14:40:16,075 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:40:16.075232
+2025-10-15 14:40:16,249 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2164592
+2025-10-15 14:40:16,249 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 14:40:16,267 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 14:40:18,025 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:40:18,025 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:40:45,595 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 14:40:45,710 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 14:40:45,710 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 14:40:45,711 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 14:40:46,052 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 14:40:46,054 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 14:40:46,055 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 14:40:46,109 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:40:46,109 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 14:40:46,112 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:40:46,160 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 14:40:46,190 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 14:40:46,190 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 14:40:46,206 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1116636
+2025-10-15 14:40:46,206 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2164592
+2025-10-15 14:40:46,878 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 14:40:46,895 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 14:40:46,896 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 14:40:47,954 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 14:40:48,184 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 14:40:50,887 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 14:40:50,928 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 14:40:50,928 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 14:40:50,929 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-45c826bf-a99a-11f0-8da5-507b9d09027d
+2025-10-15 14:40:50,930 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 14:40:50,933 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 14:40:51,141 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 14:40:51,142 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 14:40:51,144 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:40:51,147 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 14:40:51,150 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 14:40:51,165 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 2754972
+2025-10-15 14:40:51,165 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2754972
+2025-10-15 14:40:51,268 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 14:40:51,305 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:40:51.305562
+2025-10-15 14:40:51,510 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2754972
+2025-10-15 14:40:51,513 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 14:40:51,545 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 14:40:52,628 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:40:52,628 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:40:54,478 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:40:54,478 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:40:54,574 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 14:40:54,675 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 14:40:54,675 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 14:40:54,684 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 14:40:54,992 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 14:40:54,992 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 14:40:54,997 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 14:40:55,057 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:40:55,059 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 14:40:55,068 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:40:55,194 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 14:40:55,197 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 14:40:55,200 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 14:40:55,216 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 3148108
+2025-10-15 14:40:55,216 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2754972
+2025-10-15 14:40:56,100 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 14:40:56,100 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 14:40:56,100 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 14:40:56,610 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 14:40:56,827 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 14:40:59,758 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 14:40:59,797 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 14:40:59,798 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 14:40:59,798 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-4b11710b-a99a-11f0-92f0-507b9d09027d
+2025-10-15 14:40:59,799 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 14:40:59,800 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 14:40:59,969 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 14:40:59,972 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 14:40:59,977 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:40:59,982 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 14:40:59,982 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 14:41:00,000 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 2361752
+2025-10-15 14:41:00,000 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2361752
+2025-10-15 14:41:00,078 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 14:41:00,103 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:41:00.103393
+2025-10-15 14:41:00,280 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2361752
+2025-10-15 14:41:00,281 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 14:41:00,301 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 14:41:01,340 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:41:01,340 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:41:03,056 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:41:03,056 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:41:57,791 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:41:57,791 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:49:12,897 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 14:49:13,012 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 14:49:13,013 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 14:49:13,013 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 14:49:13,437 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 14:49:13,438 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 14:49:13,439 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 14:49:13,484 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:49:13,486 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 14:49:13,487 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:49:13,500 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 14:49:13,502 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 14:49:13,504 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 14:49:13,512 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1968392
+2025-10-15 14:49:13,513 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2361752
+2025-10-15 14:49:14,504 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 14:49:14,505 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 14:49:14,505 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 14:49:14,870 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 14:49:15,156 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 14:49:17,602 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 14:49:17,640 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 14:49:17,642 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 14:49:17,642 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 14:49:17,645 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-73ce8abb-a99b-11f0-b9ed-507b9d09027d
+2025-10-15 14:49:17,646 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 14:49:17,810 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 14:49:17,815 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 14:49:17,818 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:49:17,823 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 14:49:17,823 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 14:49:17,864 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 2164338
+2025-10-15 14:49:17,864 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2164338
+2025-10-15 14:49:17,987 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 14:49:18,178 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:49:18.178791
+2025-10-15 14:49:18,192 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2164338
+2025-10-15 14:49:18,192 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 14:49:18,214 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 14:49:19,312 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:49:19,312 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:49:21,262 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:49:21,262 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:49:33,012 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:49:33,013 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:51:01,392 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 14:51:01,508 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 14:51:01,509 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 14:51:01,509 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 14:51:01,864 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 14:51:01,865 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 14:51:01,866 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 14:51:01,876 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:51:01,877 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 14:51:01,879 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:51:01,973 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 14:51:01,988 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 14:51:01,988 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 14:51:02,027 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2557716
+2025-10-15 14:51:02,027 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2164338
+2025-10-15 14:51:02,648 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 14:51:02,648 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 14:51:02,648 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 14:51:03,090 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 14:51:03,327 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 14:51:05,305 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 14:51:05,346 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 14:51:05,346 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 14:51:05,348 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 14:51:05,349 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 14:51:05,351 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-b4013bf1-a99b-11f0-9726-507b9d09027d
+2025-10-15 14:51:05,520 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 14:51:05,522 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 14:51:05,526 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:51:05,530 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 14:51:05,530 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 14:51:05,542 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 2230536
+2025-10-15 14:51:05,542 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2230536
+2025-10-15 14:51:05,626 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 14:51:05,701 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:51:05.701549
+2025-10-15 14:51:05,828 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 2230536
+2025-10-15 14:51:05,828 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 14:51:05,851 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 14:51:06,921 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:51:06,921 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:51:09,380 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:51:09,381 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:51:59,157 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 14:51:59,274 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 14:51:59,274 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 14:51:59,274 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 14:51:59,577 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 14:51:59,577 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 14:51:59,582 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 14:51:59,702 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:51:59,702 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 14:51:59,702 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:51:59,875 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 14:51:59,893 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 14:51:59,906 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 14:51:59,906 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 5113774
+2025-10-15 14:51:59,906 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 2230536
+2025-10-15 14:52:00,431 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 14:52:00,431 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 14:52:00,431 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 14:52:00,821 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 14:52:01,024 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 14:52:03,189 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 14:52:03,231 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 14:52:03,232 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 14:52:03,233 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 14:52:03,234 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 14:52:03,237 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-d681c7e0-a99b-11f0-8e16-507b9d09027d
+2025-10-15 14:52:03,486 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 14:52:03,488 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 14:52:03,490 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:52:03,498 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 14:52:03,498 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 14:52:03,527 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 1443718
+2025-10-15 14:52:03,528 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1443718
+2025-10-15 14:52:03,612 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 14:52:03,655 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:52:03.655105
+2025-10-15 14:52:03,814 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 1443718
+2025-10-15 14:52:03,816 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 14:52:03,838 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 14:52:04,873 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:52:04,874 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:52:06,006 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:52:06,007 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:53:08,088 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:53:08,088 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:57:39,257 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-10-15 14:57:39,362 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-10-15 14:57:39,364 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-10-15 14:57:39,372 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-10-15 14:57:39,734 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-10-15 14:57:39,735 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-10-15 14:57:39,736 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-10-15 14:57:39,751 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:57:39,752 [DEBUG] [MainThread] [systray_widget/systray.py:516]: Saving state to disk
+2025-10-15 14:57:39,753 [DEBUG] [MainThread] [systray_widget/systray.py:520]: Saving state to C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:57:39,769 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-10-15 14:57:39,787 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-10-15 14:57:39,797 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-10-15 14:57:39,827 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 3868138
+2025-10-15 14:57:39,828 [DEBUG] [MainThread] [systray_widget/utils.py:96]: Destroying window 1443718
+2025-10-15 14:57:40,496 [INFO] [MainThread] [root/log.py:59]: YASB v1.8.3
+2025-10-15 14:57:40,496 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-10-15 14:57:40,497 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-10-15 14:57:40,883 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-10-15 14:57:41,165 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-10-15 14:57:43,135 [DEBUG] [MainThread] [root/win32_accent.py:123]: Failed to apply settings: [WinError 0] The operation completed successfully.
+2025-10-15 14:57:43,178 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-10-15 14:57:43,179 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-10-15 14:57:43,179 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-10-15 14:57:43,181 [INFO] [Dummy-3] [root/event_listener.py:51]: Created named pipe yasb-a12154e5-a99c-11f0-b2a4-507b9d09027d
+2025-10-15 14:57:43,182 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\azril\.config\yasb
+2025-10-15 14:57:43,439 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-10-15 14:57:43,441 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-10-15 14:57:43,443 [DEBUG] [MainThread] [systray_widget/systray.py:538]: Loading state from C:\Users\azril\AppData\Local\YASB\systray_state_LENOVOGROUPLIMITEDDISPLAY1.json
+2025-10-15 14:57:43,452 [DEBUG] [TrayMonitor] [systray_widget/systray.py:58]: Systray thread is starting...
+2025-10-15 14:57:43,452 [DEBUG] [TaskbarService] [systray_widget/systray.py:72]: TaskbarService thread is starting...
+2025-10-15 14:57:43,488 [DEBUG] [TaskbarService] [root/tasks_service.py:75]: Found yasb systray hwnd: 3148310
+2025-10-15 14:57:43,490 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 3148310
+2025-10-15 14:57:43,561 [DEBUG] [MainThread] [systray_widget/systray.py:285]: Systray thread started
+2025-10-15 14:57:43,764 [DEBUG] [TaskbarService] [systray_widget/tasks_service.py:81]: Adding TaskbandHWND prop to hwnd 3148310
+2025-10-15 14:57:43,764 [DEBUG] [TrayMonitor] [systray_widget/tray_monitor.py:228]: Finding real tray hwnd
+2025-10-15 14:57:43,787 [DEBUG] [MainThread] [systray_widget/tray_monitor.py:154]: Sending TaskbarCreated message: 49300
+2025-10-15 14:57:43,806 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 14:57:43.806123
+2025-10-15 14:57:45,163 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:57:45,164 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 14:58:08,227 [DEBUG] [MainThread] [systray_widget/systray.py:476]: Re-sorting widgets
+2025-10-15 14:58:08,227 [DEBUG] [MainThread] [systray_widget/systray.py:498]: Updating current state
+2025-10-15 15:07:41,916 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 15:07:41.916255
+2025-10-15 15:17:41,831 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 15:17:41.831965
+2025-10-15 15:27:41,841 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 15:27:41.841735
+2025-10-15 15:37:42,124 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-10-15 15:37:42.124687
